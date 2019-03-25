@@ -23,6 +23,8 @@
     "@angular/platform-browser": "^4.2.4",
     "@angular/platform-browser-dynamic": "^4.2.4",
     "@angular/router": "^4.2.4",
+    "@ngxs/logger-plugin": "^3.4.3-dev.master-0f1e084",
+    "@ngxs/store": "^3.4.3-dev.master-0f1e084",
     "angular2-froala-wysiwyg": "^2.6.0",
     "animate.css": "^3.5.2",
     "bootstrap": "^3.3.7",
